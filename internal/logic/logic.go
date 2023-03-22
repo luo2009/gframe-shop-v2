@@ -5,5 +5,6 @@
 package logic
 
 import (
+	_ "gframe-shop-v2/internal/logic/position"
 	_ "gframe-shop-v2/internal/logic/rotation"
 )
